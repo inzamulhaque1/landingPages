@@ -1,5 +1,12 @@
 [
     {
+        "category": "test",
+        "id": 388,
+        "image": " https://i.imgur.com/XeWzy7e.png",
+        "name": " test",
+        "url": "http://113.212.111.246:8080/hls/col12.m3u8"
+    },
+    {
         "category": "bangla",
         "id": 1,
         "image": " https://i.imgur.com/Zp62Nbd.png",
@@ -2715,4 +2722,5 @@
         "name": " CG Entertainment",
         "url": " https://cgentertainment-cgtv-1-it.samsung.wurl.tv/playlist.m3u8"
     }
+    
 ]

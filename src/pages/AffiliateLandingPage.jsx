@@ -21,9 +21,6 @@ Store;
 const AffiliateLandingPage = () => {
   const [activeCard, setActiveCard] = useState(null);
 
-  useEffect(() => {
-    document.title = "Digital Income Revolution";
-  }, []);
 
   const earningCards = [
     {
